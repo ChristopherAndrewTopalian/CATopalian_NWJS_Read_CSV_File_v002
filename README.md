@@ -5,6 +5,8 @@ v002 How to read a CSV File using Node.js and NW.js. Our method makes it possibl
 
 ![001](CATopalian_NWJS_Read_CSV_File/src/media/textures/screenshots/001.png)
 
+Video: https://www.youtube.com/watch?v=f8hUqevJ0nA
+
 ---
 
 ## **Dedicated to God the Father**
