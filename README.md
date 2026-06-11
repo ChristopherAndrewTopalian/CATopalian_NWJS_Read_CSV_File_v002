@@ -9,6 +9,11 @@ Video: https://www.youtube.com/watch?v=f8hUqevJ0nA
 
 ---
 
+> This is v002.
+If you would like the most recent version go here: https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Read_CSV_File
+
+---
+
 ## **Dedicated to God the Father**
 
 ## Author
