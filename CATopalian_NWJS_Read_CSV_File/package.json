@@ -1,0 +1,17 @@
+{
+    "name": "catopalian-nwjs-read-csv-file",
+    "version": "1.0.0",
+    "description": "How to read a CSV file",
+    "main": "CATopalian_NWJS_Read_CSV_File.html",
+    "window":
+    {
+        "title": "CATopalian NWJS Read CSV File",
+        "icon": "src/media/textures/icons/catopalian_true_ai.png",
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "resizable": true,
+        "frame": true
+    },
+    "nodejs": true
+}
